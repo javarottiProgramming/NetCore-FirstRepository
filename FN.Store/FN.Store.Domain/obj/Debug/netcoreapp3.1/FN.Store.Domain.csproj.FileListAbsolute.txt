@@ -1,0 +1,8 @@
+C:\app\netCore\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp3.1\FN.Store.Domain.deps.json
+C:\app\netCore\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp3.1\FN.Store.Domain.dll
+C:\app\netCore\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp3.1\FN.Store.Domain.pdb
+C:\app\netCore\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp3.1\FN.Store.Domain.csprojAssemblyReference.cache
+C:\app\netCore\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp3.1\FN.Store.Domain.AssemblyInfoInputs.cache
+C:\app\netCore\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp3.1\FN.Store.Domain.AssemblyInfo.cs
+C:\app\netCore\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp3.1\FN.Store.Domain.dll
+C:\app\netCore\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp3.1\FN.Store.Domain.pdb

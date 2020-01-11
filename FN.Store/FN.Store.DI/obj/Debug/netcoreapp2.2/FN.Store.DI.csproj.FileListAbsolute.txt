@@ -1,0 +1,13 @@
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.DI.deps.json
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.DI.dll
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.DI.pdb
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.Data.dll
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.Domain.dll
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.Data.pdb
+C:\app\netCore\FN.Store\FN.Store.DI\bin\Debug\netcoreapp2.2\FN.Store.Domain.pdb
+C:\app\netCore\FN.Store\FN.Store.DI\obj\Debug\netcoreapp2.2\FN.Store.DI.csprojAssemblyReference.cache
+C:\app\netCore\FN.Store\FN.Store.DI\obj\Debug\netcoreapp2.2\FN.Store.DI.AssemblyInfoInputs.cache
+C:\app\netCore\FN.Store\FN.Store.DI\obj\Debug\netcoreapp2.2\FN.Store.DI.AssemblyInfo.cs
+C:\app\netCore\FN.Store\FN.Store.DI\obj\Debug\netcoreapp2.2\FN.Store.DI.csproj.CopyComplete
+C:\app\netCore\FN.Store\FN.Store.DI\obj\Debug\netcoreapp2.2\FN.Store.DI.dll
+C:\app\netCore\FN.Store\FN.Store.DI\obj\Debug\netcoreapp2.2\FN.Store.DI.pdb
