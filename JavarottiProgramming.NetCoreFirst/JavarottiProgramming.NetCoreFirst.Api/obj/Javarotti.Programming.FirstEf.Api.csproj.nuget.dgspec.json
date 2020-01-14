@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Api\\Javarotti.Programming.FirstEf.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Api\\Javarotti.Programming.FirstEf.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Api\\Javarotti.Programming.FirstEf.Api.csproj",
+        "projectName": "Javarotti.Programming.FirstEf.Api",
+        "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Api\\Javarotti.Programming.FirstEf.Api.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.DI\\Javarotti.Programming.FirstEf.DI.csproj": {
+                "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.DI\\Javarotti.Programming.FirstEf.DI.csproj"
+              },
+              "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj": {
+                "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Data\\Javarotti.Programming.FirstEf.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Data\\Javarotti.Programming.FirstEf.Data.csproj",
+        "projectName": "Javarotti.Programming.FirstEf.Data",
+        "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Data\\Javarotti.Programming.FirstEf.Data.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj": {
+                "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.DI\\Javarotti.Programming.FirstEf.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.DI\\Javarotti.Programming.FirstEf.DI.csproj",
+        "projectName": "Javarotti.Programming.FirstEf.DI",
+        "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.DI\\Javarotti.Programming.FirstEf.DI.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Data\\Javarotti.Programming.FirstEf.Data.csproj": {
+                "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Data\\Javarotti.Programming.FirstEf.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj",
+        "projectName": "Javarotti.Programming.FirstEf.Domain",
+        "projectPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\Javarotti.Programming.FirstEf.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\app\\netCore\\NetCore-FirstRepository\\FN.Store\\FN.Store.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

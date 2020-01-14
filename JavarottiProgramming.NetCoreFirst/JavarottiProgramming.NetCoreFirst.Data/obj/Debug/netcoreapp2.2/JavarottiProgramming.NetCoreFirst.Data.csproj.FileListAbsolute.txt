@@ -1,0 +1,11 @@
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.deps.json
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.csprojAssemblyReference.cache
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.AssemblyInfoInputs.cache
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.AssemblyInfo.cs
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.csproj.CopyComplete
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Data\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.pdb

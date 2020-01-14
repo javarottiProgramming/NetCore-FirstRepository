@@ -1,0 +1,14 @@
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.deps.json
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.AssemblyInfoInputs.cache
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.AssemblyInfo.cs
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.deps.json
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.AssemblyInfoInputs.cache
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.AssemblyInfo.cs
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.Domain\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.pdb

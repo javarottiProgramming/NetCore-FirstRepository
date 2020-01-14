@@ -1,0 +1,13 @@
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.deps.json
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Data.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\bin\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.Domain.pdb
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.csprojAssemblyReference.cache
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.AssemblyInfoInputs.cache
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.AssemblyInfo.cs
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.csproj.CopyComplete
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.dll
+C:\app\netCore\NetCore-FirstRepository\FN.Store\JavarottiProgramming.NetCoreFirst.DI\obj\Debug\netcoreapp2.2\JavarottiProgramming.NetCoreFirst.DI.pdb
